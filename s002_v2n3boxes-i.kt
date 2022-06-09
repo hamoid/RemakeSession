@@ -7,6 +7,7 @@ import org.openrndr.extra.olive.oliveProgram
 import org.openrndr.extra.shapes.grid
 import org.openrndr.math.Vector2
 
+// Based on http://recodeproject.com/artwork/v2n3boxes-i
 fun main() = application {
     configure {
         width = 720
