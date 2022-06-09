@@ -6,9 +6,9 @@ Ricardo and aBe playing with OPENRNDR
 
 <img src="screenshots/001.png" width="400">
 
-https://vimeo.com/716830436
+Watch here 👉 https://vimeo.com/716830436
 
-Based on http://recodeproject.com/artwork/v3n2untitled-3-schneeberger
+*Based on http://recodeproject.com/artwork/v3n2untitled-3-schneeberger*
 
 ### Session 002
 
@@ -16,5 +16,5 @@ Based on http://recodeproject.com/artwork/v3n2untitled-3-schneeberger
 
 (pending editing)
 
-Based on http://recodeproject.com/artwork/v2n3boxes-i
+*Based on http://recodeproject.com/artwork/v2n3boxes-i*
 
