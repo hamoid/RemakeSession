@@ -14,7 +14,7 @@ Watch here 👉 https://vimeo.com/716830436 👉 https://www.youtube.com/watch?v
 
 <img src="screenshots/002.png" width="400">
 
-(pending editing)
+Watch here 👉 https://vimeo.com/716830436
 
 *Based on http://recodeproject.com/artwork/v2n3boxes-i*
 
